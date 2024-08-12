@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **keshiapud@gmail.com**
 
-- ⚡ Fun fact **I like K-drama**
+- ⚡ Fun fact **I love gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
