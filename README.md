@@ -1,15 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keshia Poedjiono</h1>
-<h3 align="center">A computer science student at City University of Hong Kong.</h3>
-
-- 🌱 I’m currently learning **C++ and Python**
-
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **keshiapud@gmail.com**
-
-- ⚡ Fun fact **I love gardening**
+<h1 align="center">Hi Everyone 👋,</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
