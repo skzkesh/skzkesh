@@ -1,5 +1,5 @@
 <h1 align="left">Hi Everyone 👋</h1>
-<li>I am interested in android application development using Java and Kotlin. </li>
+<li>I am a computer science student who are interested in android application development. </li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keshia poedjiono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshia poedjiono" height="30" width="40" /></a>
