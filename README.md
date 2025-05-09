@@ -1,6 +1,6 @@
 <h1 align="left">Helloo Everyone 👋</h1>
 <li>I’m a second-year computer science student.</li>
-<li>Currently focusing on enhancing my skills in website and mobile app development (Java and React Native).</li>
+<li>Currently focusing on enhancing my skills in web development (JavaScript) and mobile app development (Java and React Native).</li>
 <li>I'm also interested in aviation and psychology.</li>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
