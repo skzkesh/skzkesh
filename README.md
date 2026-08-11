@@ -1,7 +1,6 @@
 <h1 align="left">Hi Everyone 👋</h1>
-<li>I’m a third-year computer science student.</li>
-<li>Currently focusing on enhancing my skills in mobile app development (Java and React Native) and machine learning.</li>
-<li>I'm also interested in bioinformatics and psychology.</li>
+<li>I’m a Data & AI intern and final-year computer science student at CityU HK</li>
+<li>I'm currently focusing on learning machine learning and DevOps.</li>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/keshia-poedjiono-b09928238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshia poedjiono" height="30" width="40" /></a>
